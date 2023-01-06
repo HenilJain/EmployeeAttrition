@@ -1,7 +1,7 @@
 Release Date : 4-Apr-2022
 
 # Employee Attrition And Turnover Prediction
-[![Python]]()
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
 [![Pandas]]()
 [![Numpy]]()
 [![Sci-Kit Learn]]()
