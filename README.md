@@ -1,10 +1,10 @@
 Release Date : 4-Apr-2022
 
 # Employee Attrition And Turnover Prediction
-[![Python]
-[![Pandas]
-[![Numpy]
-[![Sci-Kit Learn]
+[![Python]]()
+[![Pandas]]()
+[![Numpy]]()
+[![Sci-Kit Learn]]()
 
 ## Method:
 ```Conda
